@@ -1,1 +1,6 @@
-This is my task sheet for my projects, infrastructure, and equipment.
+This is my task sheet for my projects, infrastructure, and equipment. / Это вой лист задач для моих проектов, инфроструктуры и техники.
+
+(p.s.) Я буду писать на русском изначально, потому что мне там быстрее и удобнее.
+
+
+---
