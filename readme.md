@@ -21,4 +21,11 @@ This is my task sheet for my projects, infrastructure, and equipment. / Это �
 
 # Инфроструктура
 
-- [ ]
+- [ ] ...
+
+---
+
+# Техника
+
+- [ ] Купить плашку ram для Docker сервера
+
